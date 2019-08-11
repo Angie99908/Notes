@@ -1,0 +1,14 @@
+The Bonferroni Correction is used in statistics to:
+
+Correct the problems caused by increasing the number of times a hypothesis is tested
+
+The chance of the number of Type 1 errors occuring increases as the number of hypothesis tests increases.
+
+If the alpha is set at .05, and four tests are run, the correction for each test is .0125.
+
+The hypothesis can be tested at a/m, where a is the alpha level and m is the number of tests, 
+or each hypothesis can be tests at any mount adding up the alpha total.
+
+1 - a / m
+
+https://en.wikipedia.org/wiki/Bonferroni_correction
